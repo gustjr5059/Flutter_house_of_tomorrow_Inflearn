@@ -1,12 +1,10 @@
 # House of Tomorrow
 A shopping app project for learning Flutter.
 
-## Feature
-### Design System
-package : [flutter_design_system](https://pub.dev/packages/flutter_design_system)
+## Design System
 |Light Theme|Dark Theme|Multilingual|
 |:-:|:-:|:-:|
-|<video src="https://user-images.githubusercontent.com/26322627/220570237-39cf416b-89eb-416e-87ac-bfe6a680cb98.mov" width="300px">|<video src="https://user-images.githubusercontent.com/26322627/220570332-7cfa1801-d517-43db-ba4f-62ee7b36f5ef.mov" width="300px">|<video src="https://user-images.githubusercontent.com/26322627/220570431-4608bab3-bab9-469e-ac31-5b74625b9897.mov" width="300px">|
+|<video src="https://github.com/nero-angela/flutter_house_of_tomorrow/assets/26322627/2e42f737-6b27-4bab-b5d1-00b15d76ea46" width="300px" alt="light theme">|<video src="https://github.com/nero-angela/flutter_house_of_tomorrow/assets/26322627/903992a6-547d-4f8d-ab66-096f4d3a0c25" width="300px" alt="dark theme">|<video src="https://github.com/nero-angela/flutter_house_of_tomorrow/assets/26322627/e6a29bec-d002-4d75-9eac-18ee6741d91b" width="300px" alt="multilingual">|
 
-### Responsive UI
-<video src="https://user-images.githubusercontent.com/26322627/220571723-84f925f9-1a10-424e-903b-18a03a74c289.mov">
+## Responsive UI
+https://github.com/nero-angela/flutter_house_of_tomorrow/assets/26322627/46c1e40c-f98c-4ff5-b45f-1d9eb22ef1a7
